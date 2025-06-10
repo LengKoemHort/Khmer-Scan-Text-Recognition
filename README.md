@@ -1,4 +1,5 @@
 
+![DEMO](https://github.com/user-attachments/assets/93935169-6d96-4be7-b806-59178c715864)
 
 # Khmer Scene-Text Recognition (KSTR)
 
